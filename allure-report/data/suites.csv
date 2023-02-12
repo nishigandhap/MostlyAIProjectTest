@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Feb 12 20:46:18 CET 2023","Sun Feb 12 20:46:22 CET 2023","3521","","Test suite","","","","Fill the details in fields and do click on send message button",""
+"passed","Sun Feb 12 20:46:13 CET 2023","Sun Feb 12 20:46:18 CET 2023","5117","","Test suite","","","","Enter incorrect bookmark and verify error message is displayed",""
+"passed","Sun Feb 12 20:46:12 CET 2023","Sun Feb 12 20:46:13 CET 2023","1351","","Test suite","","","","Verify the bookmarks are visible",""
