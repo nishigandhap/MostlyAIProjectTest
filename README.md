@@ -126,4 +126,3 @@ git clone https://github.com/nishigandhap/MostlyAIProjectTest
 ## Screenshot
 <img width="751" alt="MostlyAI screenshot" src="https://user-images.githubusercontent.com/58659856/218334035-f1231388-49be-4eb0-b88e-01c139eebb5b.png">
 
-## Screenshot
